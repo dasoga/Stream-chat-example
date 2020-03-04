@@ -55,7 +55,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   StreamChat:
-    :commit: 280017d78e669661b0e4e2801239068690c2ebdd
+    :commit: c3695b740dc096ae617e882e6e41f46aae9e04c0
     :git: https://github.com/dasoga/stream-chat-swift
 
 SPEC CHECKSUMS:
